@@ -34,5 +34,4 @@ public class Plate {
         setFood(getFood()+food);
 
     }
-
 }
